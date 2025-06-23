@@ -73,7 +73,7 @@ You can safely stop both scripts by pressing `Ctrl+C`. A summary report will be 
 
 If you find this tool useful and would like to support its development, you can send a donation to the following Solana address:
 
-- **SOL:** `YOUR_WALLET_ADDRESS_HERE`
+- **SOL:** `J4zrfLTwSmoLK1utgyU78o6u5Fh5h3y3vcAprCqyTJGW`
 
 ## 📝 License
 
